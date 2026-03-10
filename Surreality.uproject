@@ -15,5 +15,9 @@
 			"Name": "OnlineSubsystemSteam",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Linux",
+		"Windows"
 	]
 }
