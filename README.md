@@ -1,6 +1,6 @@
 # Surreality
 
-## NEEDS STEAM TO WORK (or 2 local instances with Steam OFF)  
+## Localhost Only. Open 2 instances of the same device to play.  
 
 Surreality is a 3D Isometric Co-op Puzzle game focusing on the story of 2 girls living in a mysterious world. Will they uncover the secrets behind the World's Core?  
 
