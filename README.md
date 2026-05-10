@@ -25,3 +25,5 @@ Because the two worlds are so different, many things can be in different places,
 
 ### Technical Implementation
 This mechanic was implemented by using a double game map system. Using custom helper tools to aid development, a single instance of the map was build, then cloned and edited in order to offer different paths and puzzles along the way. The two players are spawned on different maps initially. They will encounter a "Door of Oblivion" which teleports them to the relative coordinates of the other map, keeping rotation and scale independent upon interaction. The system implements visual and sound effects, paired with precise timings to make the experience as immersive as possible.
+
+[Link to the final presentation on YouTube](https://youtu.be/NgUH3YkaCkU)
